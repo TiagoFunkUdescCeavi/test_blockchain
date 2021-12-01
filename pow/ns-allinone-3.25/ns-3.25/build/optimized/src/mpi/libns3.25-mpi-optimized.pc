@@ -1,0 +1,10 @@
+prefix=/usr/local
+libdir=/usr/local/lib
+includedir=/usr/local/include/ns3.25
+
+Name: libns3-mpi
+Description: ns-3 module ns3-mpi
+Version: 3.25
+Libs: -L${libdir} -Wl,--whole-archive,-Bstatic -lns3.25-mpi-optimized -L/usr//lib -pthread -Wl,-rpath,/usr/lib/x86_64-linux-gnu/openmpi/lib -L/usr/lib/x86_64-linux-gnu/openmpi/lib -pthread -Wl,-rpath,/usr/lib/x86_64-linux-gnu/openmpi/lib -lmpi_cxx -lmpi
+Cflags: -I${includedir} -pthread -pthread -DHAVE_MPI=1 -DNS3_OPENMPI -DNS3_MPI -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi/opal/mca/event/libevent2022/libevent -I/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi/opal/mca/event/libevent2022/libevent/include -I/usr/lib/x86_64-linux-gnu/openmpi/include
+Requires: libns3.25-core-optimized libns3.25-network-optimized
