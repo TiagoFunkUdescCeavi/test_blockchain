@@ -1,0 +1,235 @@
+Waf: Entering directory `/home/tiago/Documentos/Trabalho REDES/pos/ns-allinone-3.30.1/ns-3.30.1/build'
+Waf: Leaving directory `/home/tiago/Documentos/Trabalho REDES/pos/ns-allinone-3.30.1/ns-3.30.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.732s)
+Total time of creation connections: 0.0023579 s
+Total time of creation connections: 0.0012597 s
+Total time of creation connections: 0.0013243 s
+Total time of creation connections: 0.0012274 s
+Total time of creation connections: 0.0012274 s
+Total time of creation connections: 0.0014858 s
+Total time of creation connections: 0.0012274 s
+Total time of creation connections: 0.0012597 s
+Total time of creation connections: 0.0011951 s
+Total time of creation connections: 0.0012597 s
+Total time of creation connections: 0.0011951 s
+Total time of creation connections: 0.0011305 s
+Total time of creation connections: 0.0012274 s
+Total time of creation connections: 0.0011628 s
+Total time of creation connections: 0.0012274 s
+Total time of creation connections: 0.0011305 s
+Total time of creation connections: 0.0012274 s
+Total time of creation connections: 0.0011628 s
+Total time of creation connections: 0.0011951 s
+Total time of creation connections: 0.0012597 s
+Block Propagation Time: 5.587365
+Block Propagation Time: 5.580296
+Block Propagation Time: 5.583144
+Block Propagation Time: 5.584141
+Block Propagation Time: 5.581342
+Block Propagation Time: 5.587799
+Block Propagation Time: 5.583618
+Block Propagation Time: 5.580388
+Block Propagation Time: 5.587265
+Block Propagation Time: 5.585519
+Block Propagation Time: 5.588135
+Block Propagation Time: 5.582906
+Block Propagation Time: 5.583144
+Block Propagation Time: 5.587130
+Block Propagation Time: 5.585421
+Block Propagation Time: 5.582906
+Block Propagation Time: 5.579487
+Block Propagation Time: 5.586227
+Block Propagation Time: 5.591116
+Block Propagation Time: 5.585519
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Waf: Entering directory `/home/tiago/Documentos/Trabalho REDES/pos/ns-allinone-3.30.1/ns-3.30.1/build'
+Waf: Leaving directory `/home/tiago/Documentos/Trabalho REDES/pos/ns-allinone-3.30.1/ns-3.30.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.674s)
+Total time of creation connections: 0.0029393 s
+Total time of creation connections: 0.0020995 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0010336 s
+Total time of creation connections: 0.0010982 s
+Total time of creation connections: 0.0011305 s
+Total time of creation connections: 0.0011951 s
+Total time of creation connections: 0.0011628 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.000969 s
+Block Propagation Time: 5.839666
+Block Propagation Time: 5.835353
+Block Propagation Time: 5.838898
+Block Propagation Time: 5.839950
+Block Propagation Time: 5.836326
+Block Propagation Time: 5.836957
+Block Propagation Time: 5.838831
+Block Propagation Time: 5.840017
+Block Propagation Time: 5.841973
+Block Propagation Time: 5.840017
+Block Propagation Time: 5.837928
+Block Propagation Time: 5.839666
+Block Propagation Time: 5.835073
+Block Propagation Time: 5.835353
+Block Propagation Time: 5.835840
+Block Propagation Time: 5.836257
+Block Propagation Time: 5.839532
+Block Propagation Time: 5.836811
+Block Propagation Time: 5.839181
+Block Propagation Time: 5.837025
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Waf: Entering directory `/home/tiago/Documentos/Trabalho REDES/pos/ns-allinone-3.30.1/ns-3.30.1/build'
+Waf: Leaving directory `/home/tiago/Documentos/Trabalho REDES/pos/ns-allinone-3.30.1/ns-3.30.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.686s)
+Total time of creation connections: 0.0029393 s
+Total time of creation connections: 0.0014858 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0011951 s
+Total time of creation connections: 0.0019057 s
+Total time of creation connections: 0.0018088 s
+Total time of creation connections: 0.0010659 s
+Total time of creation connections: 0.0010982 s
+Total time of creation connections: 0.0010336 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.0010336 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0010659 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0010336 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0010336 s
+Total time of creation connections: 0.0010336 s
+Block Propagation Time: 5.358251
+Block Propagation Time: 5.356436
+Block Propagation Time: 5.352401
+Block Propagation Time: 5.357345
+Block Propagation Time: 5.357546
+Block Propagation Time: 5.349858
+Block Propagation Time: 5.353107
+Block Propagation Time: 5.357597
+Block Propagation Time: 5.354020
+Block Propagation Time: 5.359915
+Block Propagation Time: 5.349611
+Block Propagation Time: 5.351237
+Block Propagation Time: 5.355884
+Block Propagation Time: 5.353315
+Block Propagation Time: 5.350494
+Block Propagation Time: 5.354520
+Block Propagation Time: 5.358956
+Block Propagation Time: 5.354270
+Block Propagation Time: 5.354020
+Block Propagation Time: 5.358504
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Waf: Entering directory `/home/tiago/Documentos/Trabalho REDES/pos/ns-allinone-3.30.1/ns-3.30.1/build'
+Waf: Leaving directory `/home/tiago/Documentos/Trabalho REDES/pos/ns-allinone-3.30.1/ns-3.30.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.678s)
+Total time of creation connections: 0.0018411 s
+Total time of creation connections: 0.0020995 s
+Total time of creation connections: 0.0019057 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0019057 s
+Total time of creation connections: 0.0018088 s
+Total time of creation connections: 0.0021641 s
+Total time of creation connections: 0.0010336 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0010336 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009044 s
+Block Propagation Time: 6.357947
+Block Propagation Time: 6.362437
+Block Propagation Time: 6.356293
+Block Propagation Time: 6.356336
+Block Propagation Time: 6.364205
+Block Propagation Time: 6.360502
+Block Propagation Time: 6.358396
+Block Propagation Time: 6.360676
+Block Propagation Time: 6.368190
+Block Propagation Time: 6.359023
+Block Propagation Time: 6.358621
+Block Propagation Time: 6.361302
+Block Propagation Time: 6.359375
+Block Propagation Time: 6.360954
+Block Propagation Time: 6.363409
+Block Propagation Time: 6.368817
+Block Propagation Time: 6.349405
+Block Propagation Time: 6.360502
+Block Propagation Time: 6.357769
+Block Propagation Time: 6.353827
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Waf: Entering directory `/home/tiago/Documentos/Trabalho REDES/pos/ns-allinone-3.30.1/ns-3.30.1/build'
+Waf: Leaving directory `/home/tiago/Documentos/Trabalho REDES/pos/ns-allinone-3.30.1/ns-3.30.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.683s)
+Total time of creation connections: 0.0020995 s
+Total time of creation connections: 0.0016796 s
+Total time of creation connections: 0.0010982 s
+Total time of creation connections: 0.0016473 s
+Total time of creation connections: 0.0010659 s
+Total time of creation connections: 0.0011305 s
+Total time of creation connections: 0.001615 s
+Total time of creation connections: 0.0010659 s
+Total time of creation connections: 0.0010982 s
+Total time of creation connections: 0.0012274 s
+Total time of creation connections: 0.0019703 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0013243 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0014535 s
+Total time of creation connections: 0.0018088 s
+Total time of creation connections: 0.0019057 s
+Total time of creation connections: 0.001938 s
+Block Propagation Time: 6.454599
+Block Propagation Time: 6.457547
+Block Propagation Time: 6.457278
+Block Propagation Time: 6.458775
+Block Propagation Time: 6.463717
+Block Propagation Time: 6.456586
+Block Propagation Time: 6.454545
+Block Propagation Time: 6.459858
+Block Propagation Time: 6.462581
+Block Propagation Time: 6.458137
+Block Propagation Time: 6.467257
+Block Propagation Time: 6.454331
+Block Propagation Time: 6.454920
+Block Propagation Time: 6.461085
+Block Propagation Time: 6.457597
+Block Propagation Time: 6.463717
+Block Propagation Time: 6.461947
+Block Propagation Time: 6.456688
+Block Propagation Time: 6.466077
+Block Propagation Time: 6.460449
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

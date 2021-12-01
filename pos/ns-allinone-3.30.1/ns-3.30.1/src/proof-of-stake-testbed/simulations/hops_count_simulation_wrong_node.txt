@@ -1,0 +1,22 @@
+Simulace poštu skoků u jednotlivých zpráv při poruše x nodů. 
+Čas simulace; počet spojení jdnoho nodu; Počet nodů; Počet pošozených %; max.počet skoků; průměrný počet skoků
+120;8;128;0;16;8.17
+120;8;128;10;16;8.15
+120;8;128;20;17;8.6
+120;8;128;33;17;8.18
+120;8;128;50;16;8.22
+
+
+this->maxTransactionsPerBlock = 200;
+        this->maxTransactionPoolSize = 800;        //suppose 4*maxTransactionPerBlock
+        this->numberOfNodes = 128;
+        this->totalStack = 10000000;
+        this->simulationTimeSeconds = 120.0;
+        //transaction generation
+        this->transactionGenerationType = T_RAND;
+        this->transPoissonDistributionMeanMiliSeconds = 300.2;
+        this->randMaxTransactionGenerationTimeMiliSeconds = 5000;       //advice cca number of nodes * 60
+        //fee generation
+        this->feeGenerationType = F_POISSON;
+        this->feePoissonDistributionMean = 6.2;
+        this->randMaxFeeGeneration = 10;

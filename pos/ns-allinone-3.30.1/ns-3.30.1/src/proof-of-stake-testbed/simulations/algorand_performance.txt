@@ -1,0 +1,18 @@
+Výkonost protokolu algorand
+čas simulace;počet nodů;počet transakci per block;počet transakci per sec; počet odeslaných zpráv (all network); počet přijatých zprav (all network)
+83;128;100;19.27;777351;12000183
+83;128;200;38.55;777351;12000183
+83;128;300;57.33;777351;12000183
+83;128;400;76.69;1020000;15746124
+83;128;500;96;1471399;22714702
+83;128;600;115.38;1471399;22714702
+
+
+Škálovatelnost protokolu algorand
+čas simulace;;počet nodů;počet transakci per block;počet transakci per sec; počet odeslaných zpráv (all network); počet přijatých zprav (all network)
+83;32;800;61.89;183197;2518812
+83;64;800;122.63;712294;10595320
+83;128;800;154.21;2830499;43694208
+83;256;800;154.21;11333823;178149425
+83;512;800;97.61;5979414;94828806
+83;1024;800;

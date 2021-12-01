@@ -1,0 +1,1035 @@
+Waf: Entering directory `/home/tiago/Documentos/Trabalho REDES/pos/ns-allinone-3.30.1/ns-3.30.1/build'
+Waf: Leaving directory `/home/tiago/Documentos/Trabalho REDES/pos/ns-allinone-3.30.1/ns-3.30.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.724s)
+Total time of creation connections: 0.0020349 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0015827 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0013243 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0010982 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0010659 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.001292 s
+Total time of creation connections: 0.0010659 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008721 s
+Block Propagation Time: 61.641295
+Block Propagation Time: 61.628947
+Block Propagation Time: 61.658793
+Block Propagation Time: 61.652060
+Block Propagation Time: 61.563158
+Block Propagation Time: 61.662862
+Block Propagation Time: 61.649693
+Block Propagation Time: 61.636284
+Block Propagation Time: 61.678383
+Block Propagation Time: 61.669291
+Block Propagation Time: 61.695614
+Block Propagation Time: 61.609991
+Block Propagation Time: 61.648246
+Block Propagation Time: 61.674847
+Block Propagation Time: 61.647368
+Block Propagation Time: 61.687993
+Block Propagation Time: 61.638840
+Block Propagation Time: 61.600701
+Block Propagation Time: 61.625219
+Block Propagation Time: 61.628821
+Block Propagation Time: 61.664336
+Block Propagation Time: 61.684487
+Block Propagation Time: 61.624120
+Block Propagation Time: 61.701923
+Block Propagation Time: 61.681540
+Block Propagation Time: 61.615789
+Block Propagation Time: 61.595427
+Block Propagation Time: 61.684764
+Block Propagation Time: 61.618421
+Block Propagation Time: 61.608581
+Block Propagation Time: 61.653812
+Block Propagation Time: 61.678383
+Block Propagation Time: 61.640913
+Block Propagation Time: 61.695538
+Block Propagation Time: 61.699563
+Block Propagation Time: 61.689414
+Block Propagation Time: 61.711150
+Block Propagation Time: 61.664623
+Block Propagation Time: 61.641659
+Block Propagation Time: 61.636842
+Block Propagation Time: 61.631025
+Block Propagation Time: 61.620508
+Block Propagation Time: 61.643547
+Block Propagation Time: 61.689142
+Block Propagation Time: 61.684441
+Block Propagation Time: 61.643045
+Block Propagation Time: 61.659649
+Block Propagation Time: 61.691499
+Block Propagation Time: 61.600527
+Block Propagation Time: 61.652364
+Block Propagation Time: 61.657618
+Block Propagation Time: 61.662566
+Block Propagation Time: 61.664042
+Block Propagation Time: 61.650613
+Block Propagation Time: 61.667544
+Block Propagation Time: 61.659370
+Block Propagation Time: 61.621598
+Block Propagation Time: 61.643920
+Block Propagation Time: 61.570547
+Block Propagation Time: 61.641791
+Block Propagation Time: 61.668130
+Block Propagation Time: 61.588596
+Block Propagation Time: 61.599825
+Block Propagation Time: 61.667838
+Block Propagation Time: 61.649169
+Block Propagation Time: 61.657895
+Block Propagation Time: 61.659051
+Block Propagation Time: 61.599119
+Block Propagation Time: 61.683888
+Block Propagation Time: 61.658494
+Block Propagation Time: 61.694128
+Block Propagation Time: 61.606486
+Block Propagation Time: 61.646696
+Block Propagation Time: 61.692172
+Block Propagation Time: 61.626316
+Block Propagation Time: 61.624561
+Block Propagation Time: 61.703509
+Block Propagation Time: 61.696943
+Block Propagation Time: 61.601054
+Block Propagation Time: 61.650877
+Block Propagation Time: 61.633568
+Block Propagation Time: 61.620175
+Block Propagation Time: 61.647627
+Block Propagation Time: 61.632133
+Block Propagation Time: 61.617750
+Block Propagation Time: 61.617208
+Block Propagation Time: 61.623684
+Block Propagation Time: 61.656469
+Block Propagation Time: 61.623138
+Block Propagation Time: 61.649123
+Block Propagation Time: 61.670455
+Block Propagation Time: 61.707787
+Block Propagation Time: 61.624561
+Block Propagation Time: 61.656168
+Block Propagation Time: 61.632778
+Block Propagation Time: 61.720524
+Block Propagation Time: 61.652936
+Block Propagation Time: 61.687775
+Block Propagation Time: 61.601762
+Block Propagation Time: 61.654418
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Waf: Entering directory `/home/tiago/Documentos/Trabalho REDES/pos/ns-allinone-3.30.1/ns-3.30.1/build'
+Waf: Leaving directory `/home/tiago/Documentos/Trabalho REDES/pos/ns-allinone-3.30.1/ns-3.30.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.782s)
+Total time of creation connections: 0.0016796 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0010982 s
+Total time of creation connections: 0.0010659 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0011628 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0010982 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0011628 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0010659 s
+Total time of creation connections: 0.0010336 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0010336 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.001292 s
+Total time of creation connections: 0.0009367 s
+Block Propagation Time: 60.580247
+Block Propagation Time: 60.520801
+Block Propagation Time: 60.559322
+Block Propagation Time: 60.543779
+Block Propagation Time: 60.566154
+Block Propagation Time: 60.520186
+Block Propagation Time: 60.509259
+Block Propagation Time: 60.484520
+Block Propagation Time: 60.496148
+Block Propagation Time: 60.596302
+Block Propagation Time: 60.557960
+Block Propagation Time: 60.554700
+Block Propagation Time: 60.556923
+Block Propagation Time: 60.565688
+Block Propagation Time: 60.506192
+Block Propagation Time: 60.557781
+Block Propagation Time: 60.509259
+Block Propagation Time: 60.561350
+Block Propagation Time: 60.616923
+Block Propagation Time: 60.552632
+Block Propagation Time: 60.513846
+Block Propagation Time: 60.604651
+Block Propagation Time: 60.550077
+Block Propagation Time: 60.550077
+Block Propagation Time: 60.604006
+Block Propagation Time: 60.589506
+Block Propagation Time: 60.591680
+Block Propagation Time: 60.524615
+Block Propagation Time: 60.578704
+Block Propagation Time: 60.557781
+Block Propagation Time: 60.459877
+Block Propagation Time: 60.490741
+Block Propagation Time: 60.456656
+Block Propagation Time: 60.635385
+Block Propagation Time: 60.543210
+Block Propagation Time: 60.567233
+Block Propagation Time: 60.649691
+Block Propagation Time: 60.690293
+Block Propagation Time: 60.551084
+Block Propagation Time: 60.553159
+Block Propagation Time: 60.657450
+Block Propagation Time: 60.503077
+Block Propagation Time: 60.521739
+Block Propagation Time: 60.562404
+Block Propagation Time: 60.597542
+Block Propagation Time: 60.503864
+Block Propagation Time: 60.534669
+Block Propagation Time: 60.561728
+Block Propagation Time: 60.553159
+Block Propagation Time: 60.621538
+Block Propagation Time: 60.551618
+Block Propagation Time: 60.491551
+Block Propagation Time: 60.545315
+Block Propagation Time: 60.582043
+Block Propagation Time: 60.575385
+Block Propagation Time: 60.602167
+Block Propagation Time: 60.545455
+Block Propagation Time: 60.675883
+Block Propagation Time: 60.480740
+Block Propagation Time: 60.578053
+Block Propagation Time: 60.482972
+Block Propagation Time: 60.451011
+Block Propagation Time: 60.643077
+Block Propagation Time: 60.582435
+Block Propagation Time: 60.610769
+Block Propagation Time: 60.563077
+Block Propagation Time: 60.581144
+Block Propagation Time: 60.539291
+Block Propagation Time: 60.584877
+Block Propagation Time: 60.652778
+Block Propagation Time: 60.598160
+Block Propagation Time: 60.566154
+Block Propagation Time: 60.616333
+Block Propagation Time: 60.625578
+Block Propagation Time: 60.557276
+Block Propagation Time: 60.544049
+Block Propagation Time: 60.648690
+Block Propagation Time: 60.602465
+Block Propagation Time: 60.563467
+Block Propagation Time: 60.606759
+Block Propagation Time: 60.585139
+Block Propagation Time: 60.519142
+Block Propagation Time: 60.583975
+Block Propagation Time: 60.559322
+Block Propagation Time: 60.518462
+Block Propagation Time: 60.562883
+Block Propagation Time: 60.460587
+Block Propagation Time: 60.538580
+Block Propagation Time: 60.526154
+Block Propagation Time: 60.568779
+Block Propagation Time: 60.598145
+Block Propagation Time: 60.649150
+Block Propagation Time: 60.550077
+Block Propagation Time: 60.517028
+Block Propagation Time: 60.613601
+Block Propagation Time: 60.566820
+Block Propagation Time: 60.485271
+Block Propagation Time: 60.627512
+Block Propagation Time: 60.576923
+Block Propagation Time: 60.592593
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Waf: Entering directory `/home/tiago/Documentos/Trabalho REDES/pos/ns-allinone-3.30.1/ns-3.30.1/build'
+Waf: Leaving directory `/home/tiago/Documentos/Trabalho REDES/pos/ns-allinone-3.30.1/ns-3.30.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.752s)
+Total time of creation connections: 0.0031977 s
+Total time of creation connections: 0.0014858 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0011628 s
+Total time of creation connections: 0.0010982 s
+Total time of creation connections: 0.001938 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.0010982 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0010659 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0010336 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0011305 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0010336 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008398 s
+Block Propagation Time: 51.179459
+Block Propagation Time: 51.215835
+Block Propagation Time: 51.196774
+Block Propagation Time: 51.259419
+Block Propagation Time: 51.291398
+Block Propagation Time: 51.170996
+Block Propagation Time: 51.299356
+Block Propagation Time: 51.207343
+Block Propagation Time: 51.149623
+Block Propagation Time: 51.244086
+Block Propagation Time: 51.274892
+Block Propagation Time: 51.259419
+Block Propagation Time: 51.259459
+Block Propagation Time: 51.225216
+Block Propagation Time: 51.216216
+Block Propagation Time: 51.256989
+Block Propagation Time: 51.252155
+Block Propagation Time: 51.275269
+Block Propagation Time: 51.203024
+Block Propagation Time: 51.338710
+Block Propagation Time: 51.265659
+Block Propagation Time: 51.156587
+Block Propagation Time: 51.337634
+Block Propagation Time: 51.211435
+Block Propagation Time: 51.268319
+Block Propagation Time: 51.142857
+Block Propagation Time: 51.232508
+Block Propagation Time: 51.156587
+Block Propagation Time: 51.248922
+Block Propagation Time: 51.196757
+Block Propagation Time: 51.267530
+Block Propagation Time: 51.294181
+Block Propagation Time: 51.164502
+Block Propagation Time: 51.262648
+Block Propagation Time: 51.238967
+Block Propagation Time: 51.307112
+Block Propagation Time: 51.258658
+Block Propagation Time: 51.188108
+Block Propagation Time: 51.274298
+Block Propagation Time: 51.245972
+Block Propagation Time: 51.353383
+Block Propagation Time: 51.340173
+Block Propagation Time: 51.251073
+Block Propagation Time: 51.182505
+Block Propagation Time: 51.193933
+Block Propagation Time: 51.282328
+Block Propagation Time: 51.228202
+Block Propagation Time: 51.240860
+Block Propagation Time: 51.297094
+Block Propagation Time: 51.225458
+Block Propagation Time: 51.217907
+Block Propagation Time: 51.261622
+Block Propagation Time: 51.235231
+Block Propagation Time: 51.171152
+Block Propagation Time: 51.326531
+Block Propagation Time: 51.131236
+Block Propagation Time: 51.109189
+Block Propagation Time: 51.261010
+Block Propagation Time: 51.214209
+Block Propagation Time: 51.284946
+Block Propagation Time: 51.333692
+Block Propagation Time: 51.305616
+Block Propagation Time: 51.176344
+Block Propagation Time: 51.228448
+Block Propagation Time: 51.164516
+Block Propagation Time: 51.233333
+Block Propagation Time: 51.184267
+Block Propagation Time: 51.170259
+Block Propagation Time: 51.246237
+Block Propagation Time: 51.271259
+Block Propagation Time: 51.155340
+Block Propagation Time: 51.244324
+Block Propagation Time: 51.235484
+Block Propagation Time: 51.300752
+Block Propagation Time: 51.274489
+Block Propagation Time: 51.201726
+Block Propagation Time: 51.197198
+Block Propagation Time: 51.382703
+Block Propagation Time: 51.226782
+Block Propagation Time: 51.155340
+Block Propagation Time: 51.207792
+Block Propagation Time: 51.280645
+Block Propagation Time: 51.237325
+Block Propagation Time: 51.333333
+Block Propagation Time: 51.295135
+Block Propagation Time: 51.268030
+Block Propagation Time: 51.235991
+Block Propagation Time: 51.240520
+Block Propagation Time: 51.253763
+Block Propagation Time: 51.229189
+Block Propagation Time: 51.297849
+Block Propagation Time: 51.179848
+Block Propagation Time: 51.234661
+Block Propagation Time: 51.279871
+Block Propagation Time: 51.258658
+Block Propagation Time: 51.280475
+Block Propagation Time: 51.114224
+Block Propagation Time: 51.298378
+Block Propagation Time: 51.189451
+Block Propagation Time: 51.231681
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Waf: Entering directory `/home/tiago/Documentos/Trabalho REDES/pos/ns-allinone-3.30.1/ns-3.30.1/build'
+Waf: Leaving directory `/home/tiago/Documentos/Trabalho REDES/pos/ns-allinone-3.30.1/ns-3.30.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.730s)
+Total time of creation connections: 0.0030362 s
+Total time of creation connections: 0.0014858 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.0011628 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0010336 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0010336 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0011951 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0010659 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0011951 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.0010336 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008398 s
+Block Propagation Time: 60.896370
+Block Propagation Time: 60.953107
+Block Propagation Time: 60.862711
+Block Propagation Time: 60.896612
+Block Propagation Time: 60.914336
+Block Propagation Time: 60.877040
+Block Propagation Time: 60.890835
+Block Propagation Time: 60.937390
+Block Propagation Time: 60.847230
+Block Propagation Time: 60.909515
+Block Propagation Time: 60.920163
+Block Propagation Time: 60.863902
+Block Propagation Time: 60.902098
+Block Propagation Time: 60.850903
+Block Propagation Time: 60.902453
+Block Propagation Time: 60.913602
+Block Propagation Time: 60.886946
+Block Propagation Time: 60.921546
+Block Propagation Time: 60.939570
+Block Propagation Time: 60.892523
+Block Propagation Time: 60.868728
+Block Propagation Time: 60.918415
+Block Propagation Time: 60.900581
+Block Propagation Time: 60.931195
+Block Propagation Time: 60.921729
+Block Propagation Time: 60.922494
+Block Propagation Time: 60.918523
+Block Propagation Time: 60.917447
+Block Propagation Time: 60.887078
+Block Propagation Time: 60.908348
+Block Propagation Time: 60.906068
+Block Propagation Time: 60.924737
+Block Propagation Time: 60.943605
+Block Propagation Time: 60.931898
+Block Propagation Time: 60.907504
+Block Propagation Time: 60.939429
+Block Propagation Time: 60.923077
+Block Propagation Time: 60.949913
+Block Propagation Time: 60.912740
+Block Propagation Time: 60.854397
+Block Propagation Time: 60.952742
+Block Propagation Time: 60.918320
+Block Propagation Time: 60.878505
+Block Propagation Time: 60.876168
+Block Propagation Time: 60.883041
+Block Propagation Time: 60.920375
+Block Propagation Time: 60.902567
+Block Propagation Time: 60.923256
+Block Propagation Time: 60.886430
+Block Propagation Time: 60.874199
+Block Propagation Time: 60.943142
+Block Propagation Time: 60.902041
+Block Propagation Time: 60.879953
+Block Propagation Time: 60.933566
+Block Propagation Time: 60.941623
+Block Propagation Time: 60.865967
+Block Propagation Time: 60.929528
+Block Propagation Time: 60.873025
+Block Propagation Time: 60.903094
+Block Propagation Time: 60.922674
+Block Propagation Time: 60.908294
+Block Propagation Time: 60.883830
+Block Propagation Time: 60.903678
+Block Propagation Time: 60.895505
+Block Propagation Time: 60.870987
+Block Propagation Time: 60.912841
+Block Propagation Time: 60.893939
+Block Propagation Time: 60.934808
+Block Propagation Time: 60.856144
+Block Propagation Time: 60.897959
+Block Propagation Time: 60.900875
+Block Propagation Time: 60.936084
+Block Propagation Time: 60.923166
+Block Propagation Time: 60.929569
+Block Propagation Time: 60.893419
+Block Propagation Time: 60.939394
+Block Propagation Time: 60.962187
+Block Propagation Time: 60.877265
+Block Propagation Time: 60.917153
+Block Propagation Time: 60.900466
+Block Propagation Time: 60.958625
+Block Propagation Time: 60.886946
+Block Propagation Time: 60.856560
+Block Propagation Time: 60.913551
+Block Propagation Time: 60.932480
+Block Propagation Time: 60.955530
+Block Propagation Time: 60.880466
+Block Propagation Time: 60.923032
+Block Propagation Time: 60.951547
+Block Propagation Time: 60.919767
+Block Propagation Time: 60.902155
+Block Propagation Time: 60.873979
+Block Propagation Time: 60.890898
+Block Propagation Time: 60.944542
+Block Propagation Time: 60.871720
+Block Propagation Time: 60.945158
+Block Propagation Time: 60.906706
+Block Propagation Time: 60.924065
+Block Propagation Time: 60.943440
+Block Propagation Time: 60.880397
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Waf: Entering directory `/home/tiago/Documentos/Trabalho REDES/pos/ns-allinone-3.30.1/ns-3.30.1/build'
+Waf: Leaving directory `/home/tiago/Documentos/Trabalho REDES/pos/ns-allinone-3.30.1/ns-3.30.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.709s)
+Total time of creation connections: 0.0014858 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0010659 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.0010336 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.0010336 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.002261 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0011951 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0010336 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0014212 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0010982 s
+Total time of creation connections: 0.0010659 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0011628 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.000969 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0009044 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.0009367 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.0010013 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008721 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0011628 s
+Total time of creation connections: 0.0008075 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0007752 s
+Total time of creation connections: 0.0008398 s
+Total time of creation connections: 0.0008398 s
+Block Propagation Time: 53.234163
+Block Propagation Time: 53.255392
+Block Propagation Time: 53.218715
+Block Propagation Time: 53.274576
+Block Propagation Time: 53.107588
+Block Propagation Time: 53.160815
+Block Propagation Time: 53.245198
+Block Propagation Time: 53.273341
+Block Propagation Time: 53.237880
+Block Propagation Time: 53.181818
+Block Propagation Time: 53.131222
+Block Propagation Time: 53.186652
+Block Propagation Time: 53.237345
+Block Propagation Time: 53.194790
+Block Propagation Time: 53.118778
+Block Propagation Time: 53.210586
+Block Propagation Time: 53.195480
+Block Propagation Time: 53.216308
+Block Propagation Time: 53.283937
+Block Propagation Time: 53.193002
+Block Propagation Time: 53.183673
+Block Propagation Time: 53.166478
+Block Propagation Time: 53.230769
+Block Propagation Time: 53.298305
+Block Propagation Time: 53.274466
+Block Propagation Time: 53.289266
+Block Propagation Time: 53.184893
+Block Propagation Time: 53.140749
+Block Propagation Time: 53.222727
+Block Propagation Time: 53.202247
+Block Propagation Time: 53.220588
+Block Propagation Time: 53.225989
+Block Propagation Time: 53.245495
+Block Propagation Time: 53.251416
+Block Propagation Time: 53.198638
+Block Propagation Time: 53.310034
+Block Propagation Time: 53.290868
+Block Propagation Time: 53.223729
+Block Propagation Time: 53.160452
+Block Propagation Time: 53.233898
+Block Propagation Time: 53.155932
+Block Propagation Time: 53.245475
+Block Propagation Time: 53.263277
+Block Propagation Time: 53.251409
+Block Propagation Time: 53.160855
+Block Propagation Time: 53.107466
+Block Propagation Time: 53.180995
+Block Propagation Time: 53.226862
+Block Propagation Time: 53.165533
+Block Propagation Time: 53.306306
+Block Propagation Time: 53.126554
+Block Propagation Time: 53.265537
+Block Propagation Time: 53.171008
+Block Propagation Time: 53.095130
+Block Propagation Time: 53.262443
+Block Propagation Time: 53.199774
+Block Propagation Time: 53.161218
+Block Propagation Time: 53.304054
+Block Propagation Time: 53.169875
+Block Propagation Time: 53.283616
+Block Propagation Time: 53.257046
+Block Propagation Time: 53.177001
+Block Propagation Time: 53.282167
+Block Propagation Time: 53.216460
+Block Propagation Time: 53.179661
+Block Propagation Time: 53.195260
+Block Propagation Time: 53.217833
+Block Propagation Time: 53.186230
+Block Propagation Time: 53.272316
+Block Propagation Time: 53.250283
+Block Propagation Time: 53.246900
+Block Propagation Time: 53.279412
+Block Propagation Time: 53.216460
+Block Propagation Time: 53.291855
+Block Propagation Time: 53.217195
+Block Propagation Time: 53.242664
+Block Propagation Time: 53.194570
+Block Propagation Time: 53.244898
+Block Propagation Time: 53.243243
+Block Propagation Time: 53.240406
+Block Propagation Time: 53.205882
+Block Propagation Time: 53.204983
+Block Propagation Time: 53.296505
+Block Propagation Time: 53.179661
+Block Propagation Time: 53.183766
+Block Propagation Time: 53.270575
+Block Propagation Time: 53.188914
+Block Propagation Time: 53.245772
+Block Propagation Time: 53.214689
+Block Propagation Time: 53.278467
+Block Propagation Time: 53.248594
+Block Propagation Time: 53.246606
+Block Propagation Time: 53.254237
+Block Propagation Time: 53.281818
+Block Propagation Time: 53.257627
+Block Propagation Time: 53.217441
+Block Propagation Time: 53.208145
+Block Propagation Time: 53.304643
+Block Propagation Time: 53.186020
+Block Propagation Time: 53.236753
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

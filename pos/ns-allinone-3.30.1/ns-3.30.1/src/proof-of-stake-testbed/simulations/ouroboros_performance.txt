@@ -1,0 +1,18 @@
+Výkonost protokolu ouroboros
+čas simulace;počet nodů;počet transakci per block;počet transakci per sec; počet odeslaných zpráv (all network); počet přijatých zprav (all network)
+83;128;100;24.1;14460766;936747
+83;128;200;48.1;14460766;936747
+83;128;300;71,98;14460766;936747
+83;128;400;95.89;21668752;1403665
+83;128;500;119.65;21668752;1403665
+83;128;600;125.6;21668752;1403665
+
+
+Škálovatelnost protokolu Ouroboros
+čas simulace;;počet nodů;počet transakci per block;počet transakci per sec; počet odeslaných zpráv (all network); počet přijatých zprav (all network)
+83;32;800;xxx;180313;2478983
+83;64;800;123;700110;10413281
+83;128;800;192.77;2775769;42849968
+83;256;800;192.77;11037961;173499911
+83;512;800;97.81;4847482;76876649
+83;1024;800;
